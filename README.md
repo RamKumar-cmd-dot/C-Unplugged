@@ -170,6 +170,3 @@ Navigate submenus to manage your songs, albums, and playlist. All commands are l
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
