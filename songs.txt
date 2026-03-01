@@ -1,0 +1,21 @@
+1|Intandam|Sid_Sriram|4:10
+2|Evare|Yazin_Nizar|3:55
+3|Radhika|Anurag_Kulkarni|4:05
+4|Romulo|Ram_Miriyala|4:20
+5|Naatu_Naatu|Rahul_Sipligunj|4:13
+6|Arabic_Kuthu|Anirudh_Ravichander|4:27
+7|Tum_Hi_Ho|Arijit_Singh|4:22
+8|Kesariya|Arijit_Singh|4:28
+9|Blinding_Lights|The_Weeknd|3:22
+10|Heat_Waves|Glass_Animals|3:59
+11|Levitating|Dua_Lipa|3:24
+12|Unholy|Sam_Smith|2:36
+13|Shape_of_You|Ed_Sheeran|3:53
+14|Faded|Alan_Walker|3:33
+15|Lover|Taylor_Swift|3:41
+16|Vaseegara|Bombay_Jayashri|4:51
+17|Why_This_Kosslaveri_Di|Dhanush|4:22
+18|Enjoy_Enjaami|Dhee|3:09
+19|Oo_Antava|Indravathi|3:07
+20|Samajavaragamana|Sid_Sriram|3:49
+21|Beat it|Micheal Jakson|04:35
